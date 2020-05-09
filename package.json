@@ -1,0 +1,24 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losdc234/github-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/losdc234/github-bot/issues"
+  },
+  "homepage": "https://github.com/losdc234/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.25.3",
+    "simple-git": "^2.4.0"
+  }
+}
